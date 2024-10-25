@@ -1,0 +1,109 @@
+Linguagens de Programação
+  Scala
+  Java
+  Python
+  JavaScript
+  Ruby
+  PHP
+  Swift
+  Kotlin
+  TypeScript
+  Rust
+  Dart
+  Perl
+  Elixir
+  Haskell
+  Lua
+  Objective-C
+  Erlang
+  MATLAB
+  Shell
+  Groovy
+  Fortran
+  COBOL
+  Julia
+
+Jogos Eletrônicos
+  Fortnite
+  Minecraft
+  League of Legends
+  Call of Duty
+  The Legend of Zelda
+  Among Us
+  Overwatch
+  Apex Legends
+  Counter-Strike
+  Genshin Impact
+  Battlefield
+  Halo
+  Destiny 2
+  Rocket League
+  World of Warcraft
+  Final Fantasy XIV
+  Valorant
+  Red Dead Redemption
+  Cyberpunk 2077
+  Dota 2
+  PUBG
+  FIFA
+  Grand Theft Auto V
+  Monster Hunter: World
+  The Witcher 3: Wild Hunt
+  Assassin's Creed
+  Dark Souls
+  Elden Ring
+  God of War
+  Horizon Zero Dawn
+
+Times de Futebol
+  Barcelona
+  Real Madrid
+  Manchester United
+  Bayern de Munique
+  Liverpool
+  Paris Saint-Germain
+  Chelsea
+  Juventus
+  Ajax
+  Manchester City
+  AC Milan
+  Inter de Milão
+  Borussia Dortmund
+  Atlético de Madrid
+  Napoli
+  Benfica
+  Flamengo
+  Palmeiras
+  Boca Juniors
+  River Plate
+  Arsenal
+  Tottenham Hotspur
+  Lazio
+  Porto
+  Sevilla
+  Lyon
+  Zenit
+  RB Leipzig
+  Villarreal
+
+Inteligências Artificiais
+  Redes Neurais
+  Machine Learning
+  Deep Learning
+  Árvores de Decisão
+  Algoritmo Genético
+  Backpropagation
+
+Professores de Ciência da Computação
+  Gabriel Gadelha
+  Danielle Casillo
+  Amanda Gondim
+  Angélica Félix
+  Danniel Cavalcante
+  Helcio Wagner
+  Judson Santos
+  Leiva Casemiro
+  Paulo Henrique
+  Silvio Roberto
+  Yaskara Menescal
+  Bruno Monteiro
